@@ -1,0 +1,16 @@
+.seep{
+    display: flex;
+    flex-direction: row;
+    height: 1336px;
+    background-repeat: no-repeat;
+    background-image: url(../../../public/images/BG-Fade.png);
+    background-repeat: no-repeat;
+
+}
+.seepinfo{
+  
+    margin-left: 69px;
+    margin-top: 10px;
+  margin-right: -60px;
+ 
+}
