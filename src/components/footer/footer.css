@@ -1,0 +1,13 @@
+
+.footer{
+    display: flex;
+background-color: black;
+   
+}
+.footer2{
+    background-color: #141414;
+    margin-top: -200px;
+    width: 1440px;
+    margin-right: 9px;
+    margin-left: -27px;
+}
